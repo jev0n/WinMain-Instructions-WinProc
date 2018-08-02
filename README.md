@@ -6,4 +6,5 @@
 
 ^ اللغة المستخدمة هي الس المحسنة
 
+توجد عشر نقاط في كل واحدة شرح لطريقة عملها
 THIS IS AN INSTRUCTION ON ARABIC LANGUAGE 
